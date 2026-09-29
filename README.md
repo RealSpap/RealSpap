@@ -2,7 +2,7 @@
 
 ## Spap
 
-12 of 70+ DeFi protocols I checked still have live, exploitable upgrade keys. RPC-verified, replayed from on-chain history. Methods always public.
+21 of 80+ DeFi protocols I checked still have live, exploitable upgrade keys. RPC-verified, replayed from on-chain history. Methods always public.
 
 <br clear="left"/>
 
@@ -11,8 +11,8 @@
 
 ### Core research
 
-- **[multisig-overlap](https://github.com/RealSpap/multisig-overlap-showcase)** — who holds multisig signer keys across multiple, unrelated DeFi protocols at once. Checked at three scales: 337 protocols, 547 confirmed Safe contracts across 25 chains (171 on Ethereum mainnet, 79 on Optimism's Superchain, 87 across 10 more L2s and sidechains). A standing research program, not a one-off snapshot. Free tool: [check your own Safe](https://realspap.github.io/tools/check-your-safe.html).
-- **[defi-admin-key-risk](https://github.com/RealSpap/defi-admin-key-risk-showcase)** — where a single externally-owned account, not a multisig, still holds admin power able to mint, pause, or redirect funds in a live protocol. 70+ protocols checked by hand, 12 cases came back genuinely live and at risk, anchored on Wasabi Protocol's real ~$5.9M loss to a compromised deployer key. Free tool: [check a contract](https://realspap.github.io/tools/admin-key-checker.html).
+- **[multisig-overlap](https://github.com/RealSpap/multisig-overlap-showcase)** — who holds multisig signer keys across multiple, unrelated DeFi protocols at once. Checked at three scales: 387 protocols, 729 confirmed Safe contracts across 25 chains (194 on Ethereum mainnet, 99 on Optimism's Superchain, 94 across 10 more L2s and sidechains). A standing research program, not a one-off snapshot. Free tool: [check your own Safe](https://realspap.github.io/tools/check-your-safe.html).
+- **[defi-admin-key-risk](https://github.com/RealSpap/defi-admin-key-risk-showcase)** — where a single externally-owned account, not a multisig, still holds admin power able to mint, pause, or redirect funds in a live protocol. 80+ protocols checked by hand, 21 cases came back genuinely live and at risk, anchored on Wasabi Protocol's real ~$5.9M loss to a compromised deployer key. Free tool: [check a contract](https://realspap.github.io/tools/admin-key-checker.html).
 - **[onchain-postmortems](https://github.com/RealSpap/onchain-postmortems)** — independent forensic reconstructions of DeFi and on-chain exploits, correcting already-published press or DefiLlama figures along the way. 51 incidents, about $798.5M recomputed from primary sources, still growing. Free tool: [browse incidents & check an address](https://realspap.github.io/tools/onchain-postmortems-checker.html).
 
 Live site: [realspap.github.io](https://realspap.github.io) · [X](https://x.com/RealSpap)
