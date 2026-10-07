@@ -2,7 +2,7 @@
 
 ## Spap
 
-Who really holds the keys in DeFi, read directly from the chain: shared multisig signers, single-key admin control, and exploits reconstructed transaction by transaction. Findings and on-chain sources are always public; the verification method is available under license.
+Who really holds the keys in DeFi, read directly from the chain: shared multisig signers, single-key admin control, and exploits reconstructed transaction by transaction. Findings, data and on-chain sources are always public and free to reuse with credit.
 
 <br clear="left"/>
 
@@ -19,4 +19,4 @@ Live site: [realspap.github.io](https://realspap.github.io) · [X](https://x.com
 
 Every claim rests on an on-chain read or a cited public source. No wallets connected, no tokens, no paid promotion, no affiliation with any protocol covered.
 
-**Licensing / custom research:** the on-chain verification method behind this research is available under a commercial license. [Reach out on X](https://x.com/RealSpap) if you want it applied to your own protocol or chain.
+**Custom research:** want the same checks run on your own protocol or chain, or an authority sheet like [these two samples](https://github.com/RealSpap/defi-admin-key-risk-showcase#sample-authority-sheets)? [Reach out on X](https://x.com/RealSpap).
