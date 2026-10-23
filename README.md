@@ -2,7 +2,7 @@
 
 ## Spap
 
-Who really holds the keys in DeFi, read directly from the chain: shared multisig signers, single-key admin control, and exploits reconstructed transaction by transaction. Findings, data and on-chain sources are always public and free to reuse with credit.
+Who really holds the keys in DeFi, read directly from the chain: shared multisig signers, single-key admin control, and exploits reconstructed transaction by transaction, all but one (Tectonic on Cronos, whose chain was rolled back past the attack). Findings, data and on-chain sources are always public and free to reuse with credit.
 
 <br clear="left"/>
 
@@ -13,7 +13,7 @@ Who really holds the keys in DeFi, read directly from the chain: shared multisig
 
 - **[multisig-overlap](https://github.com/RealSpap/multisig-overlap-showcase)**: who holds multisig signer keys across several independent DeFi protocols at once. Checked at three scales: <!--chiffre:multisig.entrees_total-->411<!--/chiffre--> protocol entries and <!--chiffre:multisig.contrats_total-->749<!--/chiffre--> confirmed multisig contracts across 25 chains (<!--chiffre:multisig.mainnet-->214<!--/chiffre--> on Ethereum mainnet, 99 on Optimism's Superchain, 98 on Arbitrum and 10 more L2s and sidechains). The widest single signer key sits on 5 independent protocols. Free tool: [check your own Safe](https://realspap.github.io/tools/check-your-safe.html).
 - **[defi-admin-key-risk](https://github.com/RealSpap/defi-admin-key-risk-showcase)**: where a single key (a bare EOA or a 1-of-N Safe) still holds admin power able to mint, pause, or redirect funds, the pattern behind Wasabi Protocol's $5.9M loss in April 2026. <!--chiffre:defi.verifies-->108<!--/chiffre--> DeFi protocols and Morpho vault owners checked by hand, <!--chiffre:defi.cas-->30<!--/chiffre--> single-key admin cases, each with its timelock or guardian noted where one exists. Free tool: [check a contract](https://realspap.github.io/tools/admin-key-checker.html).
-- **[onchain-postmortems](https://github.com/RealSpap/onchain-postmortems)**: forensic reconstructions of DeFi and on-chain exploits from raw chain data, with sourced corrections to press and DefiLlama figures. 56 incidents, $921.7M in losses, $584.7M of it independently recomputed. Free tool: [browse incidents and check an address](https://realspap.github.io/tools/onchain-postmortems-checker.html).
+- **[onchain-postmortems](https://github.com/RealSpap/onchain-postmortems)**: forensic reconstructions of DeFi and on-chain exploits from raw chain data (all but one: Tectonic on Cronos, whose chain was rolled back past the attack), with sourced corrections to press and DefiLlama figures. 64 incidents, $926.0M in losses, $589.1M of it independently recomputed. Free tool: [browse incidents and check an address](https://realspap.github.io/tools/onchain-postmortems-checker.html).
 
 Live site: [realspap.github.io](https://realspap.github.io) · [X](https://x.com/RealSpap) · [Methodology and disclaimer](https://realspap.github.io/methodology.html)
 
