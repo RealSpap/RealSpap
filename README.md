@@ -6,7 +6,7 @@ Contact: [contact@realspap.com](mailto:contact@realspap.com)
 
 Who can change a DeFi contract, how fast, and what we could not read. On-chain research and a public authority oracle (testnet). Replay commands included.
 
-Findings, data and on-chain sources are public. Licence per repository: CC BY 4.0 for the data and text of the three showcases, MIT for code and for onchain-postmortems.
+Findings, data and on-chain sources are public. Licence per repository: CC BY 4.0 for the data and text of the three showcases, MIT for code and for onchain-postmortems, and CC0 where a folder says so.
 
 <br clear="left"/>
 
