@@ -24,4 +24,4 @@ Live site: [realspap.github.io](https://realspap.github.io) · [X](https://x.com
 
 Every claim rests on an on-chain read or a cited public source. No wallets connected, no tokens, no paid promotion, no affiliation with any protocol covered.
 
-**Custom research:** want the same checks run on your own protocol or chain, or an authority sheet like [these two samples](https://github.com/RealSpap/defi-admin-key-risk-showcase#sample-authority-sheets)? Write to [contact@realspap.com](mailto:contact@realspap.com) or [reach out on X](https://x.com/RealSpap).
+**Questions or corrections:** write to [contact@realspap.com](mailto:contact@realspap.com) or [reach out on X](https://x.com/RealSpap).
